@@ -1,6 +1,8 @@
 # NewsCookieNotices
 Cookie notices data for Dutch news websites
 
+We manually analyzed the cookie consent notice for 60 Dutch news websites and found that the majority of these websites used dark patterns to elicit consent from visitors and circumvent the intention of the GDPR.
+
 | Collected raw data  | Description |
 | ------------- | ------------- |
 | Link  | The website link of the analyzed Dutch news website.  |
